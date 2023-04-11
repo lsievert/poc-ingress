@@ -1,0 +1,14 @@
+---
+appName: ingress-nginx
+userGivenName: ingress-nginx
+destNamespace: ingress-nginx
+srcPath: apps
+srcRepoURL: https://github.com/lsievert/poc-ingress.git
+srcTargetRevision: HEAD
+labels:
+annotations-git-branch: null
+annotations-image-list: null
+annotations-write-back-method: null
+annotations-update-strategy: null
+annotations-allow-tags: null
+annotations-write-back-target: null
